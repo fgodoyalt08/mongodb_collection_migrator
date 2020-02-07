@@ -1,0 +1,9 @@
+{
+  "name": "integralwebhost_migrator",
+  "description": "Migrate mongo collection from another instance",
+  "version": "0.0.1",
+  "dependencies": {
+    "mongoose": "4.8.4"
+  },
+  "private": false
+}
